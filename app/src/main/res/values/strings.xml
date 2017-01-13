@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="open_custom_activity">Open custom activity</string>
+    <string name="close_custom_activity">Close custom activity</string>
+</resources>
